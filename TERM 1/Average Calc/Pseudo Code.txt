@@ -1,0 +1,7 @@
+Create the avg_score function.
+Initiate the scores list.
+Define variable x.
+Create loop based off x.
+Take commands in loop to either add, find the mean, or end the loops.
+Take the list and divide the sum by the length of the list.
+return calculated average.

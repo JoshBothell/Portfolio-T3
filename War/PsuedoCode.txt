@@ -1,0 +1,3 @@
+Create Deck
+Shuffle Deck
+Divide deck by dealing one to each player until deck is empty

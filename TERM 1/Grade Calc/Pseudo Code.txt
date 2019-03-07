@@ -1,0 +1,5 @@
+Initialize the scores list.
+Take input into list.
+Find average of list with sum/length.
+Use if/elif to sort into letter grades.
+Return results.

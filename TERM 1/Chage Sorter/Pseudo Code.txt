@@ -1,0 +1,4 @@
+Takes either input or an argument for change in cents. 
+Divide by value of coins.
+Take remainder and repeat.
+return the values found in either a return statement or print statement.

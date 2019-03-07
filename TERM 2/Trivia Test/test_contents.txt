@@ -1,0 +1,81 @@
+Term 2 Python Quiz
+DATA TYPES
+A number with a decimal is a: 
+A) String
+B) Big Number
+C) Float
+D) Integer
+C) Float
+In python a number that uses a decimal is refered to as a float, or floating point real value.
+DATA TYPES cont.
+A data type that has only a True or False state: 
+A) A YorN Variable
+B) Boolean
+C) String
+D) Yeet
+B) Boolean
+A 'Boolean' Variable can only be True or False.
+DATA TYPES cont.
+A data type that is a sequence of characters: 
+A) String
+B) Text
+C) Message
+D) Alabama
+A) String
+A 'String' Variable stores a "string" of characters from one letter to an entire page.
+DATA TYPES cont.
+A whole number: 
+A) Rational
+B) Lorge
+C) Float
+D) Integer
+D) Integer
+An integer is a whole number data type in python.
+NAMING THINGS IN PYTHON cont.
+A named memory location holding a value: 
+A) Data Point
+B) Float
+C) Variable
+D) Dog
+C) Variable
+A Variable holds data at a specific point in memory.
+NAMING THINGS IN PYTHON cont.
+Variable whose value does not change throughout a program: 
+A) Variable
+B) Hayden
+C) Constant
+D) Function
+C) Constant
+A Variable holds data at a specific point in memory.
+NAMING THINGS IN PYTHON
+A Series of related steps that make up a larger task: 
+A) PBJ Sandwich
+B) Function
+C) Boolean
+D) Class
+B) Function
+A functions created using def 'function'(): can run a list of steps by calling the name of the function.
+FUNCTIONS
+A variable in the 'def' statement of a function: 
+A) Question
+B) Big oof
+C) Variable
+D) Parameter
+D) Parameter
+A parameter can be set to be passed into a variable. 
+MAKING PRETTY CODE
+Explanations written in the code, but ignored by python: 
+A) Comments
+B) QuikTips
+C) Yeet
+D) Dog again
+A) Comments
+Comments designated by """ or ## are ignored by python when the code is running.
+MAKING PRETTY CODE cont.
+A block of code that is repeated until a certain condition is met: 
+A) Function
+B) Loop
+C) Lamp
+D) Ben Shapiro
+B) Loop
+Loops can save space by doing one job multiple times using While and For loops.
